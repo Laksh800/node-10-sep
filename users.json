@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "first_name": "Ethelda",
+        "last_name": "Alman",
+        "email": "ealman0@delicious.com",
+        "gender": "Female"
+    },
+    {
+        "id": 2,
+        "first_name": "Jehu",
+        "last_name": "Whitcombe",
+        "email": "jwhitcombe1@webeden.co.uk",
+        "gender": "Male"
+    },
+    {
+        "id": 3,
+        "first_name": "Raleigh",
+        "last_name": "Di Baudi",
+        "email": "rdibaudi2@addtoany.com",
+        "gender": "Male"
+    },
+    {
+        "id": 4,
+        "first_name": "Samuel",
+        "last_name": "Braikenridge",
+        "email": "sbraikenridge3@alibaba.com",
+        "gender": "Male"
+    },
+    {
+        "id": 5,
+        "first_name": "Brendin",
+        "last_name": "Northern",
+        "email": "bnorthern4@weather.com",
+        "gender": "Male"
+    },
+    {
+        "id": 6,
+        "first_name": "Dalenna",
+        "last_name": "Sunnucks",
+        "email": "dsunnucks5@aol.com",
+        "gender": "Non-binary"
+    },
+    {
+        "id": 7,
+        "first_name": "Christabel",
+        "last_name": "Freschini",
+        "email": "cfreschini6@joomla.org",
+        "gender": "Female"
+    },
+    {
+        "id": 8,
+        "first_name": "Vaughn",
+        "last_name": "Aughton",
+        "email": "vaughton7@mac.com",
+        "gender": "Male"
+    },
+    {
+        "id": 9,
+        "first_name": "Cyrus",
+        "last_name": "Lever",
+        "email": "clever8@bloglovin.com",
+        "gender": "Male"
+    },
+    {
+        "id": 10,
+        "first_name": "Michaelina",
+        "last_name": "Simonato",
+        "email": "msimonato9@wufoo.com",
+        "gender": "Female"
+    },
+    {
+        "first_name": "dk",
+        "last_name": "singh",
+        "email": "asorbey8@usda.gov",
+        "gender": "Male",
+        "id": 11
+    }
+]
